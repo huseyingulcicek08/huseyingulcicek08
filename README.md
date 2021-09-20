@@ -1,8 +1,8 @@
 <img src="https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif?cid=ecf05e47e0ca55fb7926904229fa065fefd89f7c50e946d2&rid=giphy.gif&ct=g" align="right"  weight="400"  height="250">
 
-# Hi there 👋, I'm Oguzhan!
+# Hi there 👋, I'm Huseyin!
 
-![Profile views](https://komarev.com/ghpvc/?username=oguzhnduran)
+![Profile views](https://komarev.com/ghpvc/?username=huseyingulcicek08)
 
 
 
