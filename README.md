@@ -7,26 +7,22 @@
 
 
 
-I'm Oguzhan Duran, a passionate self-taught FrontEnd developer from Turkey and I love being part of the development of web technologies.
+I'm Huseyin Gulcicek, I am an ambitious, self-taught Front End developer from Turkey and I love being a part of web technologies development.
 
 
 * 🌱I'm currently learning <b> Bootstrap, React.js, and Javascript. </b>
 
-* 📫 How to reach me [oguzhnduran@gmail.com](oguzhnduran@gmail.com)
+* 📫 How to reach me [huseyingulcicek08@gmail.com](huseyingulcicek08@gmail.com)
 
 ### Connect with me
 
 [<img width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" align="left" />][LinkedIn]
 
-[<img width="22" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" align="left"  />][twitter]
-
 [<img width="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" align="left" />][instagram]
 
-[LinkedIn]: https://www.linkedin.com/in/oguzhnduran/
+[LinkedIn]: https://www.linkedin.com/in/huseyingulcicek08/
 
-[twitter]: https://twitter.com/oguzhnduran
-
-[instagram]: https://www.instagram.com/ogzhndrn/
+[instagram]: https://www.instagram.com/huseyingulcicek08/
 
 <br><br>
 
@@ -45,12 +41,12 @@ I'm Oguzhan Duran, a passionate self-taught FrontEnd developer from Turkey and I
   <summary> 
     :bulb: Github Stats 
   </summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=oguzhnduran&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=huseyingulcicek08&theme=radical">
 </details>
 
 <details>
   <summary> 
     :bulb: Most Used Languages
   </summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhnduran&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyingulcicek08&layout=compact">
 </details>
